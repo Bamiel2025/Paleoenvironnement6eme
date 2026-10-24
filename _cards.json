@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "q": "Qu'est-ce qu'un paléoenvironnement ?",
+    "a": "C'est un environnement du passé, souvent très ancien.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 2,
+    "q": "Quels sont les deux éléments principaux qui permettent de reconstituer un paléoenvironnement ?",
+    "a": "L'étude des fossiles et des roches.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 3,
+    "q": "À quoi ressemblait le paysage de la France il y a 20 000 ans ?",
+    "a": "Elle ressemblait à une steppe froide.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 4,
+    "q": "Vrai ou Faux : La vie existait déjà sur la terre ferme il y a 540 Ma.",
+    "a": "Faux, il n'y avait pas encore de vie sur terre à cette époque.",
+    "tag": "Vrai/Faux"
+  },
+  {
+    "id": 5,
+    "q": "Quels sont les trois phénomènes qui marquent le changement de la biodiversité au cours du temps ?",
+    "a": "La disparition (extinction), la persistance et le renouvellement.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 6,
+    "q": "Concept : Extinction",
+    "a": "Définition : Disparition définitive d'un groupe d'êtres vivants.",
+    "tag": "Définition"
+  },
+  {
+    "id": 7,
+    "q": "Quel groupe d'animaux a disparu lors de l'extinction de la fin du Permien (-250 Ma) ?",
+    "a": "Les trilobites.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 8,
+    "q": "À quelle période géologique correspond la disparition des dinosaures non-aviens il y a 66 Ma ?",
+    "a": "La crise Crétacé-Tertiaire.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 9,
+    "q": "Quel grand mammifère s'est éteint il y a environ 4 000 ans ?",
+    "a": "Le mammouth laineux.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 10,
+    "q": "Citez deux exemples de groupes d'animaux qui illustrent la persistance de la biodiversité.",
+    "a": "Les amphibiens et les poissons osseux.",
+    "tag": "Exemple"
+  },
+  {
+    "id": 11,
+    "q": "Dans l'histoire de la biodiversité, qu'est-ce que le phénomène de renouvellement ?",
+    "a": "C'est lorsqu'un groupe d'êtres vivants est remplacé par un autre groupe.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 12,
+    "q": "Quel groupe a remplacé les grands reptiles marins disparus ?",
+    "a": "Les mammifères marins, comme les dauphins ou les baleines.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 13,
+    "q": "Quel est l'adage fondamental du principe d'actualisme ?",
+    "a": "« Le présent est la clé du passé ».",
+    "tag": "Q/R"
+  },
+  {
+    "id": 14,
+    "q": "En quoi consiste la méthode de l'actualisme ?",
+    "a": "Elle compare les fossiles avec des espèces actuelles vivant dans des milieux comparables.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 15,
+    "q": "Quel est l'objectif principal de l'application du principe d'actualisme ?",
+    "a": "Déduire le milieu de vie et le climat d'un environnement passé.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 16,
+    "q": "À quelle espèce actuelle compare-t-on le fossile d'ammonite ?",
+    "a": "Le nautile.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 17,
+    "q": "Quelle conclusion sur son milieu de vie tire-t-on de la comparaison entre l'ammonite et le nautile ?",
+    "a": "L'ammonite vivait dans une mer chaude et peu profonde.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 18,
+    "q": "Sur quel critère regroupe-t-on les espèces dans une classification en groupes emboîtés ?",
+    "a": "Sur les attributs morphologiques qu'elles partagent.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 19,
+    "q": "Concept : Attribut",
+    "a": "Définition : Caractère morphologique visible partagé par certains êtres vivants.",
+    "tag": "Définition"
+  },
+  {
+    "id": 20,
+    "q": "Citez trois exemples d'attributs utilisés pour classer les êtres vivants.",
+    "a": "Le squelette, les vertèbres et les quatre membres.",
+    "tag": "Exemple"
+  },
+  {
+    "id": 21,
+    "q": "Que peut-on dire de la parenté de deux espèces qui partagent un grand nombre d'attributs ?",
+    "a": "Elles sont très proches parentes.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 22,
+    "q": "Quelle notion biologique majeure la classification en groupes emboîtés permet-elle de préparer ?",
+    "a": "La notion d'évolution.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 23,
+    "q": "Quelle est l'unité de mesure principale des temps géologiques ?",
+    "a": "Le million d'années (Ma).",
+    "tag": "Q/R"
+  },
+  {
+    "id": 24,
+    "q": "Quelle est la durée estimée de l'histoire de la Terre ?",
+    "a": "Environ 4 600 Ma.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 25,
+    "q": "À quelle date approximative l'être humain moderne apparaît-il dans l'histoire de la Terre ?",
+    "a": "Vers -300 000 ans.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 26,
+    "q": "Quelle est la conséquence habituelle d'une extinction massive sur la biodiversité ?",
+    "a": "Elle est suivie d'un renouvellement rapide des espèces.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 27,
+    "q": "Terme : Fossile",
+    "a": "Définition : Reste ou empreinte d'un être vivant conservé dans une roche.",
+    "tag": "Vocabulaire"
+  },
+  {
+    "id": 28,
+    "q": "Terme : Biodiversité",
+    "a": "Définition : Diversité des êtres vivants présents dans un milieu.",
+    "tag": "Vocabulaire"
+  },
+  {
+    "id": 29,
+    "q": "La méthode qui explique le passé par la comparaison au présent s'appelle l'_____.",
+    "a": "Actualisme",
+    "tag": "Q/R"
+  },
+  {
+    "id": 30,
+    "q": "Comment appelle-t-on le regroupement des espèces selon des attributs communs ?",
+    "a": "La classification en groupes emboîtés.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 31,
+    "q": "Le nautile actuel permet de comprendre le mode de vie passé de quel animal fossile ?",
+    "a": "L'ammonite.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 32,
+    "q": "Les poils et les écailles sont des exemples d'_____ morphologiques.",
+    "a": "Attributs",
+    "tag": "Q/R"
+  },
+  {
+    "id": 33,
+    "q": "L'ammonite est reconnaissable à sa forme de _____ enroulée.",
+    "a": "Coquille",
+    "tag": "Q/R"
+  },
+  {
+    "id": 34,
+    "q": "Quelle est la principale différence entre l'environnement de la France il y a 20 000 ans et aujourd'hui ?",
+    "a": "Le climat était beaucoup plus froid et le paysage était une steppe.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 35,
+    "q": "Pourquoi dit-on que les temps géologiques sont des « temps longs » ?",
+    "a": "Parce qu'ils se mesurent en millions d'années, contrairement à l'échelle humaine.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 36,
+    "q": "Les fossiles se trouvent généralement dans quel type de matériau ?",
+    "a": "Dans les roches.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 37,
+    "q": "La persistance des invertébrés marins signifie qu'ils n'ont pas _____ au cours du temps.",
+    "a": "Disparu",
+    "tag": "Q/R"
+  },
+  {
+    "id": 38,
+    "q": "Quel événement géologique majeur précède souvent un « renouvellement rapide » de la biodiversité ?",
+    "a": "Une extinction massive.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 39,
+    "q": "Dans une classification, le caractère « possède des vertèbres » est un _____.",
+    "a": "Attribut",
+    "tag": "Q/R"
+  },
+  {
+    "id": 40,
+    "q": "Vrai ou Faux : L'histoire de l'être humain représente la majeure partie de l'histoire de la Terre.",
+    "a": "Faux, l'humain n'apparaît que très récemment par rapport aux 4 600 Ma de la Terre.",
+    "tag": "Vrai/Faux"
+  },
+  {
+    "id": 41,
+    "q": "Quel groupe d'êtres vivants disparus possédait une coquille enroulée ?",
+    "a": "Les ammonites.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 42,
+    "q": "Comment qualifie-t-on le renouvellement de la biodiversité après une crise ?",
+    "a": "Il est qualifié de rapide.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 43,
+    "q": "Cloze : Un paléoenvironnement est un environnement du _____, souvent très ancien.",
+    "a": "Passé",
+    "tag": "Texte à trous"
+  },
+  {
+    "id": 44,
+    "q": "Cloze : On reconstitue les paysages anciens grâce à l'étude des fossiles et des _____.",
+    "a": "Roches",
+    "tag": "Texte à trous"
+  },
+  {
+    "id": 45,
+    "q": "Cloze : L'extinction des _____ non-aviens a eu lieu il y a 66 Ma.",
+    "a": "Dinosaures",
+    "tag": "Texte à trous"
+  },
+  {
+    "id": 46,
+    "q": "Pourquoi compare-t-on des espèces fossiles à des espèces vivant dans des « milieux comparables » ?",
+    "a": "Pour appliquer le principe d'actualisme et comprendre le climat passé.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 47,
+    "q": "Quelle information apporte la présence d'un fossile d'ammonite sur la profondeur de la mer passée ?",
+    "a": "Elle indique que la mer était peu profonde.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 48,
+    "q": "Citez deux exemples de mammifères marins actuels cités dans le document.",
+    "a": "Les dauphins et les baleines.",
+    "tag": "Exemple"
+  },
+  {
+    "id": 49,
+    "q": "À quel moment de l'histoire de la Terre les paysages ont-ils commencé à changer ?",
+    "a": "Ils ont beaucoup changé tout au long de l'histoire de la Terre.",
+    "tag": "Q/R"
+  },
+  {
+    "id": 50,
+    "q": "Quel attribut morphologique est partagé par les mammifères et les oiseaux mais pas par les insectes ?",
+    "a": "Le squelette (ou les vertèbres).",
+    "tag": "Q/R"
+  }
+]
